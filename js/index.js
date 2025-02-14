@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const images = [
         "img/ft1.png", "img/ft2.png", "img/ft3.png", "img/ft4.png", "img/ft5.png", "img/ft6.png",
         "img/ft7.png", "img/ft8.png", "img/ft9.png", "img/ft10.png", "img/ft11.png", "img/ft12.png",
-        "img/ft13.png", "img/ft14.png", "img/ft15.png", "img/ft16.png"
+        /* "img/ft13.png", "img/ft14.png", "img/ft15.png", "img/ft16.png" */
     ];
 
     // Tamaño del bloque de imágenes (6 imágenes por fila)
